@@ -8,7 +8,7 @@ class PizzaPlanetHeader extends HTMLElement {
             <header class="header-section container-fluid">
             <nav class="navbar navbar-expand navbar-dark bg-dark">
                 <a class="navbar-brand" href="/">
-                <img src="images/image4.png" width="50" height="50" class="d-inline-block align-top" alt="" />
+                <img src="/images/image4.png" width="50" height="50" class="d-inline-block align-top" alt="" />
                 L'ultima Cena
                 </a>
                 <ul class="navbar-nav mr-auto"></ul>
