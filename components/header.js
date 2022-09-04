@@ -27,6 +27,9 @@ class PizzaPlanetHeader extends HTMLElement {
                 <li class="nav-item">
                     <a class="nav-link" href="/app/size/sizes.html">Sizes</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/app/beverage/beverages.html">Beverages</a>
+                </li>
             </nav>
             </header>
         `;
